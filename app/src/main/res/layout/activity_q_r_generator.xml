@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#fcedf3"
+    android:gravity="center_horizontal"
+    tools:context=".QRGenerator">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_input"
+        android:padding="12dp"
+        android:background="@android:drawable/editbox_background"
+        android:importantForAutofill="no"
+        tools:ignore="LabelFor,TextFields"/>
+
+    <Button
+        android:id="@+id/bt_generate"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/custom_button"
+        android:fadingEdge="horizontal"
+        android:fontFamily="sans-serif-medium"
+        android:padding="20dp"
+        android:text="@string/generate"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/iv_output"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        tools:ignore="ContentDescription" />
+
+    <Button
+        android:id="@+id/bt_Save"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/custom_button"
+        android:padding="20dp"
+        android:text="@string/save"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+</LinearLayout>

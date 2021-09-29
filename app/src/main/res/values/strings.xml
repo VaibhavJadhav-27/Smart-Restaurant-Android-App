@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartRestaurentApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="generate">Generate</string>
+    <string name="save">Save</string>
+    <string name="qrcodegenerator">QR Code Generator</string>
+    <string name="orders">Orders</string>
+</resources>

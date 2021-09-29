@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341425391284",
+    "firebase_url": "https://smartrestaurentapp-default-rtdb.firebaseio.com",
+    "project_id": "smartrestaurentapp",
+    "storage_bucket": "smartrestaurentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341425391284:android:3f3b1b4ad4791b8cc179e1",
+        "android_client_info": {
+          "package_name": "com.example.smartrestaurentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341425391284-nr4vf3841b4mm4jr7m58hn47a5qjqvh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartrestaurentapp",
+            "certificate_hash": "d086a023acc006380beb10e797c249d2bd7c79fb"
+          }
+        },
+        {
+          "client_id": "341425391284-9stvh09spgtvt3gtadn1u4eo92c9v7r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCCrdAXR_-lh0kPoaPRBu6UxLal0PqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341425391284-9stvh09spgtvt3gtadn1u4eo92c9v7r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
