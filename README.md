@@ -4,11 +4,13 @@ This is a Smart restaurant Android App which comes with QR code Generator and Vi
 
 # The Splash Screen
 This is a splash screen when you open the android app.
+
 ![splash](https://user-images.githubusercontent.com/43025108/137590548-1bb8b78b-e750-4a4c-8a3f-842ce855dc6d.jpg)
 
 
 # Home Screen
 This is a Home screen of the android app which displays fucntions of app
+
 ![home](https://user-images.githubusercontent.com/43025108/137590556-8aa6afc1-7141-4502-bb8b-046b490a69c2.jpg)
 
 
